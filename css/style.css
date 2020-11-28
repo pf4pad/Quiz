@@ -1,0 +1,15 @@
+body {
+  background: #e3e3e3;
+}
+
+.container .phone {
+  color: #dddddd;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.hero-image {
+  box-shadow: 0px 10px 25px rgb(red, green, blue);
+}
+
+.hero-navbar {}
